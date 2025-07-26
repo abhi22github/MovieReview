@@ -75,7 +75,7 @@ src/
    java -cp src ui.MovieRecommenderMain
    ```
 
-*Optional:* Add poster images and trailer URLs in `RecommendationService.java` for richer movie display.
+
 
 ## Future Enhancements
 
