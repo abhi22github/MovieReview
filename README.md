@@ -1,5 +1,3 @@
-Here is a well-structured and detailed README description tailored for your Java Swing multi-page movie recommendation system project:
-
 # Movie Recommendation System (Java Swing)
 
 ## Project Overview
