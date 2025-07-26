@@ -88,6 +88,6 @@ src/
 
 ## Author
 
-[Abhishek S]
+**Abhishek S**
 
 This README provides a comprehensive introduction to your project, covering purpose, features, tech stack, usage, and next steps. You can customize author and repository details as needed.
